@@ -1,11 +1,11 @@
 {
   "navItem" : [
-    {"name":"profile","href":"#profile","icon":"fas fa-home"},
-    {"name":"about","href":"#about","icon":"fas fa-home"},
-    {"name":"education","href":"#education","icon":"fas fa-home"},
-    {"name":"skill","href":"#skill","icon":"fas fa-home"},
-    {"name":"portfolio","href":"#portfolio","icon":"fas fa-home"},
-    {"name":"contact","href":"#contact","icon":"fas fa-home"}
+    {"name":"profile","href":"#profile","icon":"nav__icon fas fa-home"},
+    {"name":"about","href":"#about","icon":"nav__icon fas fa-home"},
+    {"name":"education","href":"#education","icon":"nav__icon fas fa-home"},
+    {"name":"skill","href":"#skill","icon":"nav__icon fas fa-home"},
+    {"name":"portfolio","href":"#portfolio","icon":"nav__icon fas fa-home"},
+    {"name":"contact","href":"#contact","icon":"nav__icon fas fa-home"}
   ],
   "profile" :[
       {"name": "Shishir Bhuiyan","des": "CSE | PSTU"},
