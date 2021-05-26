@@ -1,8 +1,8 @@
 {
-  "colors" : ["orange","red","yellow"],
-  "recrds" :[
-      {"name1": "Shishir1","age1": 12},
-      {"name2": "Shishir2","age2": 12},
+  "navItem" : ["profile","about","education","skill","portfolio","contact"],
+  "profile" :[
+      {"name": "Shishir Bhuiyan","des": "CSE | PSTU"},
+      {"headline": ["Js Developer","Php Developer","Ui Desigier","App Developer"]},
       {"name3": "Shishir3","age3": 12}
   ]
 }
