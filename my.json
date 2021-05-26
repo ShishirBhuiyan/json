@@ -9,11 +9,10 @@
   ],
   "profile" :[
       {"name": "Shishir Bhuiyan","des": "CSE | PSTU"},
-      {"headline": ["Js Developer","Php Developer","Ui Desigier","App Developer"]},
       {"contact": [
-        {"phoneIcon":"fas fa-phone-volume","phoneNumber":"01403487219"},
-        {"mailIcon":"fas fa-envelope-open-text","mailAddress":"shishir16@cse.pstu.ac.bd"},
-        {"locationIcon":"fas fa-map-marker-alt","location":"Dhaka,Narsingdi Sadar"}
+        {"icon":"fas fa-phone-volume","data":"01403487219"},
+        {"icon":"fas fa-envelope-open-text","data":"shishir16@cse.pstu.ac.bd"},
+        {"icon":"fas fa-map-marker-alt","data":"Dhaka,Narsingdi Sadar"}
       ]}
   ]
 }
