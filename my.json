@@ -14,5 +14,12 @@
         {"icon":"fas fa-envelope-open-text","data":"shishir16@cse.pstu.ac.bd"},
         {"icon":"fas fa-map-marker-alt","data":"Dhaka,Narsingdi Sadar"}
       ]}
-  ]
+  ],
+  "about":{
+    "textOne": "m Shishir 🏃🏾‍♂️ and interested in doing positive things about every aspect of life. I love projects with challenges. I like works to make an impact in the real world. I always try to work for my world with my community. I learn to extended . Also I am a specialized in",
+    "spanText":"Front-End and Back-End web Development.🍁",
+    "textTwo": "Besides within the web designing and development area every sector I want to deliver my best. I always try to maintain performance with achievements. Actually I am not a successful programmer but I want to be also successful. Because the program is my way & programming is my passion. If you think? I will help you with your project...🤝🏾 yes, I am ready to assist you InsyaAllah. ",
+    "image":"https://i.postimg.cc/vB4Ft6zp/IMG-20201122-155318.jpg"
+  }
+ 
 }
