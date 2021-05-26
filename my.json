@@ -10,6 +10,10 @@
   "profile" :[
       {"name": "Shishir Bhuiyan","des": "CSE | PSTU"},
       {"headline": ["Js Developer","Php Developer","Ui Desigier","App Developer"]},
-      {"name3": "Shishir3","age3": 12}
+      {"contact": [
+        {"phoneIcon":"fas fa-phone-volume","phoneNumber":"01403487219"},
+        {"mailIcon":"fas fa-envelope-open-text","mailAddress":"shishir16@cse.pstu.ac.bd"},
+        {"locationIcon":"fas fa-map-marker-alt","location":"Dhaka,Narsingdi Sadar"}
+      ]}
   ]
 }
