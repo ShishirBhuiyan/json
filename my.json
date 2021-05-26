@@ -1,5 +1,12 @@
 {
-  "navItem" : ["profile","about","education","skill","portfolio","contact"],
+  "navItem" : [
+    {"name":"profile","href":"#profile","icon":"fas fa-home"},
+    {"name":"about","href":"#about","icon":"fas fa-home"},
+    {"name":"education","href":"#education","icon":"fas fa-home"},
+    {"name":"skill","href":"#skill","icon":"fas fa-home"},
+    {"name":"portfolio","href":"#portfolio","icon":"fas fa-home"},
+    {"name":"contact","href":"#contact","icon":"fas fa-home"}
+  ],
   "profile" :[
       {"name": "Shishir Bhuiyan","des": "CSE | PSTU"},
       {"headline": ["Js Developer","Php Developer","Ui Desigier","App Developer"]},
