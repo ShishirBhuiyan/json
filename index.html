@@ -5,8 +5,68 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="./jquery.js"></script>
+    <script>
+        
+        $(document).ready(function(){
+           $.ajax({
+               url:"https://shishirbhuiyan.github.io/json/my.json",
+               type:"GET",
+               success: function(data){
+                   /* console.log(data); */
+               }
+           })
+        });
+
+
+
+        let  people = { id: 4 ,firstName: 'John'};
+        people = { ...people, secondName: 'Fogerty'};
+        people = { ...people, city: { state: 'California' }};
+        people = { ...people, fruit: { Mango: 'Sweet',Berry:'500' }};
+        people = { ...people, Number:["One","TWo","Three"]};
+        people = { ...people, Number:[]};
+
+        var ok = ["One","TWo","Three"];
+
+        people = { ...people, Number:ok};
+        /* console.log(people); */
+
+
+
+
+
+
+
+        const myObject = {};
+        Object.assign(myObject, {
+            firstNewAttribute: {
+                nestedAttribute1: 'woohoo!1',
+                nestedAttribute2: 'woohoo!2',
+            }
+        });
+        //console.log(myObject);
+
+
+
+
+        var newJson = $.extend(true, {}, {
+            my:"json",
+            nestedJson: {a1:1, a2:2}
+        }, {
+            other:"json",
+            nestedJson: {b1:1, b2:2}
+        });
+        //console.log(newJson);
+
+
+    </script>
 </head>
 <body>
     <h1>Hello World</h1>
+
+    <script>
+        
+    </script>
 </body>
 </html>
