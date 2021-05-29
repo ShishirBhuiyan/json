@@ -7,20 +7,20 @@
   "portfolio":[
     {
       "type":"web",
-      "image":"https://i.postimg.cc/vB4Ft6zp/IMG-20201122-155318.jpg",
+      "image":"https://i.postimg.cc/1R7CwR64/Portfolio-One.png",
       "text":"First Portfolio",
-      "link":"https://shishirbhuiyan.github.io/Portfolio-One/"
+      "link":"https://shishirbhuiyan.github.io/Portfolio-One/index.html"
     },   
     {
       "type":"web",
       "image":"https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
       "text":"Responsive Portfolio",
-      "link":" https://shishirbhuiyan.github.io/Another-Portfolio-Demo/"
+      "link":" https://shishirbhuiyan.github.io/Another-Portfolio-Demo/index.html"
     },
     {
       "type":"app",
       "image":"https://i.postimg.cc/L6RnbDCn/Portfolio-Three.png",
-      "text":"First Portfolio 3",
+      "text":"Third Portfolio",
       "link":"https://shishirbhuiyan.github.io/Portfolio-Three/index.html"
     } 
   ]
