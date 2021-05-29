@@ -8,27 +8,21 @@
     {
       "type":"web",
       "image":"https://i.postimg.cc/vB4Ft6zp/IMG-20201122-155318.jpg",
-      "text":"First Portfolio 1",
+      "text":"First Portfolio",
       "link":"https://shishirbhuiyan.github.io/Portfolio-One/"
     },   
     {
       "type":"web",
-      "image":"https://i.postimg.cc/qvz0d0ph/152-405-copy-removebg-preview.png",
-      "text":"First Portfolio 2",
-      "link":"https://shishirbhuiyan.github.io/Portfolio-One/"
+      "image":"https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
+      "text":"Responsive Portfolio",
+      "link":" https://shishirbhuiyan.github.io/Another-Portfolio-Demo/"
     },
     {
       "type":"app",
-      "image":"https://i.postimg.cc/mg1MzTKV/0X2A1948.jpg",
+      "image":"https://i.postimg.cc/L6RnbDCn/Portfolio-Three.png",
       "text":"First Portfolio 3",
-      "link":"https://shishirbhuiyan.github.io/Portfolio-One/"
-    } ,
-    {
-      "type":"design",
-      "image":"https://i.postimg.cc/wj13rKb0/Second-Large.png",
-      "text":"First Portfolio 4",
-      "link":"https://shishirbhuiyan.github.io/Portfolio-One/"
-    }
+      "link":"https://shishirbhuiyan.github.io/Portfolio-Three/index.html"
+    } 
   ]
 
  
