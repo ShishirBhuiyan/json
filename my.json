@@ -22,6 +22,12 @@
       "image":"https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
       "text":"Responsive Portfolio",
       "link":" https://shishirbhuiyan.github.io/Another-Portfolio-Demo/index.html"
+    }   
+    {
+      "type":"ui",
+      "image":"https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png",
+      "text":"Navbar with Slider",
+      "link":" https://shishirbhuiyan.github.io/Everything-Pstu_Frontend/index.html"
     }
   ]
 
